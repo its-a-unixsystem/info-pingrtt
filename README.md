@@ -135,7 +135,6 @@ cargo build --release
 
 The compiled binary will be located at `target/release/info-pingrtt`
 
-<<<<<<< HEAD
 ## License
 
 Apache 2.0
@@ -150,8 +149,7 @@ Apache 2.0
 
 ## License
 
-[Specify your license here, e.g., MIT, Apache 2.0]
->>>>>>> origin/main
+Apache 2.0
 
 ## Disclaimer
 
